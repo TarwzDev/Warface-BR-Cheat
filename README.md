@@ -3,8 +3,8 @@ Cheat atualizado para WARFACE BRASIL
 
 ## Funções
 
-Glow
-Aimbot
+Glow.
+Aimbot.
 No Recoil
 Precisão
 Munição infinita
