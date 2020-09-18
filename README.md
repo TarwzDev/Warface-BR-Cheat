@@ -1,7 +1,7 @@
-# Warface-BR-Cheat
+# Warface BR Cheat
 Cheat atualizado para WARFACE BRASIL
 
-Funções:
+## Funções
 
 Glow
 Aimbot
